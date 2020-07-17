@@ -6,5 +6,6 @@ language.each do |i|
     yield (i)
   new_lang << yield (i)
   end
+  new_lang
 end
   
