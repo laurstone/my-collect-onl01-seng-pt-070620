@@ -7,8 +7,6 @@ my_collect(language) do |language|
     yield language[i]
     i += 1 
   end
-  language.upcase
-  end
 end
     
   
