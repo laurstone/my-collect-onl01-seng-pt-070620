@@ -4,7 +4,7 @@ def my_collect(language)
   new_lang = []
 language.each do |language|
     yield language
-    i += 1 
+  new_lang << 
   end
 end
     
