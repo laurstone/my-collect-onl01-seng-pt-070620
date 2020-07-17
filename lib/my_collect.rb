@@ -7,5 +7,4 @@ language.each do |i|
   new_lang << i
   end
 end
-    
   
