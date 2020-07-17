@@ -6,4 +6,3 @@ language.each do |i|
     yield new_lang += i
   end
 end
-  
